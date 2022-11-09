@@ -8,7 +8,18 @@ HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
 - Development: Git, Github,
 - Deployment: Heroku
 I have use oath for add authentication in init.
-
+![Screenshot (130)](https://user-images.githubusercontent.com/87599586/200961010-ebf969f2-8ca5-4f5e-9fa6-cce5aa935080.png)
+![Screenshot (129)](https://user-images.githubusercontent.com/87599586/200961017-73511e1d-16a8-4ec8-ba74-da247efbefe4.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/87599586/200961018-6a9d54d6-e037-45eb-990f-3e425ea4fc15.png)
+![Screenshot (127)](https://user-images.githubusercontent.com/87599586/200961021-a8d135ed-0068-4386-be9a-059646f92f33.png)
+![Screenshot (126)](https://user-images.githubusercontent.com/87599586/200961022-d29e6c3a-9ac7-4879-9165-95072b2cff43.png)
+![Screenshot (125)](https://user-images.githubusercontent.com/87599586/200961026-29eb7002-d97b-4899-ab8d-a4a1f006eb4e.png)
+![Screenshot (124)](https://user-images.githubusercontent.com/87599586/200961029-ba8fcd45-8247-4eba-b54d-7b11a701d1d3.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/87599586/200961034-37163771-2e1c-41b7-8f2a-dd0620c8b4df.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/87599586/200961036-f19af6c2-cc7b-452d-b1ba-3aaa3122d2dd.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/87599586/200961038-af0efbfb-6b1d-4f81-923d-c0be7582656e.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/87599586/200961040-93971477-6339-40d6-b45c-5473b1a92d2c.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/87599586/200961042-19344f52-3891-4b21-b0a1-28fdf0f3e83d.png)
 There are basically 
 1.login page
    if user has account in it then they can directly login to home page of tindog
@@ -55,6 +66,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/adils0123/tindogWithAuth.git
 git push -u origin main
+
+
 
 FOR OLD REPO
 git remote add origin https://github.com/adils0123/tindogWithAuth.git
